@@ -1,7 +1,0 @@
-%% Translation of GIT committish: de694eef021e3c38119b08370f79809bffc52a9b
-  texidocfr = "
-Voici un canevas pour quatuor à cordes.  Notez l'utilisation de la
-variable @code{\\global} pour traiter la métrique et la tonalité.
-
-"
-  doctitlefr = "Quatuor à cordes (conducteur)"
